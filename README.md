@@ -35,8 +35,7 @@ Run the Python script in your terminal or IDE.
 
 Enter a news category when prompted. Choose from:
 
-Copy
-Edit
+
 general, world, nation, business, technology, entertainment, sports, science and health
 If you select "nation", the script filters articles based on political party keywords to highlight politically significant stories.
 
@@ -44,14 +43,10 @@ Enter your phone number (numbers only, no spaces or symbols).
 
 Choose your mobile carrier from the following options:
 
-Copy
-Edit
 att, tmobile, verizon, sprint
 The script fetches top news headlines using the GNews API, composes a message, and sends it to your phone via SMS using Gmail's SMTP service.
 
 If successful, you'll see:
 
-mathematica
-Copy
-Edit
+
 Message sent!
